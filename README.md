@@ -1,5 +1,5 @@
 # CS 353 Term Project
-<h2>Project Name:  </h2> 
+<h2>Project Name: Code Editor </h2> 
 <h2>Web Page:  https://laramerdol.github.io/index.html </h2> 
 <div>
 <h2>Schedule</h2> 
